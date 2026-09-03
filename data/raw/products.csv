@@ -1,0 +1,201 @@
+product_id,advertiser_id,industry,category,price
+PRDT_001,ADV002,Sports,Fitness Equipment,74.12
+PRDT_002,ADV012,Electronics,Headphones,89.49
+PRDT_003,ADV006,Sports,Running Shoes,190.19
+PRDT_004,ADV002,Sports,Sportswear,102.98
+PRDT_005,ADV001,Electronics,Laptops,1485.06
+PRDT_006,ADV012,Electronics,Laptops,1779.93
+PRDT_007,ADV012,Electronics,Smartphones,766.37
+PRDT_008,ADV017,Sports,Sportswear,114.91
+PRDT_009,ADV010,Beauty,Haircare,13.34
+PRDT_010,ADV016,Fashion,Accessories,115.38
+PRDT_011,ADV015,Sports,Sportswear,40.62
+PRDT_012,ADV015,Sports,Running Shoes,68.02
+PRDT_013,ADV019,Sports,Running Shoes,101.28
+PRDT_014,ADV012,Electronics,Smartphones,319.34
+PRDT_015,ADV020,Electronics,Headphones,55.78
+PRDT_016,ADV003,Fashion,Shoes,114.08
+PRDT_017,ADV005,Electronics,Headphones,392.21
+PRDT_018,ADV019,Sports,Running Shoes,76.3
+PRDT_019,ADV007,Fashion,Accessories,8.35
+PRDT_020,ADV009,Electronics,Laptops,2003.07
+PRDT_021,ADV007,Fashion,Clothing,204.62
+PRDT_022,ADV018,Sports,Running Shoes,101.95
+PRDT_023,ADV004,Electronics,Laptops,1375.82
+PRDT_024,ADV014,Electronics,Laptops,1764.52
+PRDT_025,ADV018,Sports,Fitness Equipment,52.59
+PRDT_026,ADV009,Electronics,Smartphones,1433.89
+PRDT_027,ADV002,Sports,Running Shoes,183.0
+PRDT_028,ADV020,Electronics,Laptops,947.88
+PRDT_029,ADV015,Sports,Running Shoes,52.3
+PRDT_030,ADV007,Fashion,Shoes,282.03
+PRDT_031,ADV012,Electronics,Smartphones,851.35
+PRDT_032,ADV008,Fashion,Accessories,110.18
+PRDT_033,ADV015,Sports,Sportswear,108.92
+PRDT_034,ADV003,Fashion,Clothing,159.73
+PRDT_035,ADV014,Electronics,Laptops,2382.17
+PRDT_036,ADV017,Sports,Running Shoes,191.64
+PRDT_037,ADV004,Electronics,Headphones,349.54
+PRDT_038,ADV018,Sports,Sportswear,102.73
+PRDT_039,ADV008,Fashion,Shoes,246.26
+PRDT_040,ADV004,Electronics,Smartphones,1080.32
+PRDT_041,ADV002,Sports,Sportswear,94.54
+PRDT_042,ADV006,Sports,Sportswear,36.71
+PRDT_043,ADV010,Beauty,Haircare,98.85
+PRDT_044,ADV004,Electronics,Headphones,331.84
+PRDT_045,ADV018,Sports,Running Shoes,143.89
+PRDT_046,ADV012,Electronics,Headphones,331.76
+PRDT_047,ADV002,Sports,Running Shoes,147.72
+PRDT_048,ADV010,Beauty,Makeup,20.5
+PRDT_049,ADV004,Electronics,Headphones,124.11
+PRDT_050,ADV014,Electronics,Laptops,850.64
+PRDT_051,ADV016,Fashion,Accessories,78.57
+PRDT_052,ADV015,Sports,Running Shoes,55.84
+PRDT_053,ADV008,Fashion,Clothing,160.29
+PRDT_054,ADV014,Electronics,Laptops,1106.76
+PRDT_055,ADV008,Fashion,Accessories,132.87
+PRDT_056,ADV016,Fashion,Shoes,134.06
+PRDT_057,ADV013,Electronics,Laptops,1831.39
+PRDT_058,ADV018,Sports,Sportswear,64.28
+PRDT_059,ADV015,Sports,Sportswear,53.89
+PRDT_060,ADV013,Electronics,Smartphones,844.85
+PRDT_061,ADV009,Electronics,Smartphones,1100.76
+PRDT_062,ADV015,Sports,Sportswear,65.28
+PRDT_063,ADV013,Electronics,Headphones,375.93
+PRDT_064,ADV001,Electronics,Laptops,482.29
+PRDT_065,ADV007,Fashion,Shoes,142.85
+PRDT_066,ADV009,Electronics,Laptops,2431.92
+PRDT_067,ADV001,Electronics,Laptops,1550.74
+PRDT_068,ADV012,Electronics,Smartphones,750.51
+PRDT_069,ADV008,Fashion,Clothing,148.6
+PRDT_070,ADV011,Electronics,Smartphones,948.7
+PRDT_071,ADV019,Sports,Running Shoes,159.75
+PRDT_072,ADV017,Sports,Fitness Equipment,90.01
+PRDT_073,ADV008,Fashion,Clothing,73.75
+PRDT_074,ADV003,Fashion,Clothing,151.43
+PRDT_075,ADV003,Fashion,Clothing,218.77
+PRDT_076,ADV001,Electronics,Laptops,1579.92
+PRDT_077,ADV005,Electronics,Laptops,901.05
+PRDT_078,ADV010,Beauty,Skincare,71.19
+PRDT_079,ADV007,Fashion,Clothing,188.88
+PRDT_080,ADV009,Electronics,Smartphones,509.71
+PRDT_081,ADV007,Fashion,Clothing,103.77
+PRDT_082,ADV009,Electronics,Smartphones,894.63
+PRDT_083,ADV008,Fashion,Clothing,131.69
+PRDT_084,ADV012,Electronics,Smartphones,706.5
+PRDT_085,ADV002,Sports,Fitness Equipment,169.89
+PRDT_086,ADV001,Electronics,Headphones,57.99
+PRDT_087,ADV016,Fashion,Clothing,27.57
+PRDT_088,ADV005,Electronics,Headphones,384.25
+PRDT_089,ADV003,Fashion,Clothing,214.08
+PRDT_090,ADV012,Electronics,Smartphones,661.38
+PRDT_091,ADV008,Fashion,Clothing,239.85
+PRDT_092,ADV003,Fashion,Accessories,136.97
+PRDT_093,ADV001,Electronics,Laptops,1413.29
+PRDT_094,ADV003,Fashion,Clothing,130.86
+PRDT_095,ADV005,Electronics,Laptops,574.9
+PRDT_096,ADV015,Sports,Running Shoes,63.76
+PRDT_097,ADV014,Electronics,Headphones,248.93
+PRDT_098,ADV003,Fashion,Accessories,112.97
+PRDT_099,ADV001,Electronics,Headphones,100.84
+PRDT_100,ADV005,Electronics,Laptops,2387.01
+PRDT_101,ADV014,Electronics,Smartphones,1215.68
+PRDT_102,ADV007,Fashion,Clothing,41.66
+PRDT_103,ADV009,Electronics,Smartphones,1410.21
+PRDT_104,ADV015,Sports,Fitness Equipment,487.9
+PRDT_105,ADV015,Sports,Sportswear,149.47
+PRDT_106,ADV010,Beauty,Makeup,9.19
+PRDT_107,ADV013,Electronics,Laptops,1947.77
+PRDT_108,ADV019,Sports,Sportswear,90.97
+PRDT_109,ADV007,Fashion,Shoes,220.57
+PRDT_110,ADV017,Sports,Fitness Equipment,485.27
+PRDT_111,ADV020,Electronics,Smartphones,1094.44
+PRDT_112,ADV004,Electronics,Laptops,2157.62
+PRDT_113,ADV005,Electronics,Smartphones,1326.93
+PRDT_114,ADV007,Fashion,Accessories,168.5
+PRDT_115,ADV013,Electronics,Laptops,1294.79
+PRDT_116,ADV015,Sports,Sportswear,48.93
+PRDT_117,ADV011,Electronics,Smartphones,715.65
+PRDT_118,ADV004,Electronics,Smartphones,1359.47
+PRDT_119,ADV013,Electronics,Headphones,75.71
+PRDT_120,ADV007,Fashion,Clothing,135.63
+PRDT_121,ADV019,Sports,Running Shoes,84.98
+PRDT_122,ADV002,Sports,Fitness Equipment,303.21
+PRDT_123,ADV010,Beauty,Makeup,69.74
+PRDT_124,ADV013,Electronics,Laptops,2248.76
+PRDT_125,ADV006,Sports,Running Shoes,85.5
+PRDT_126,ADV012,Electronics,Smartphones,1380.0
+PRDT_127,ADV012,Electronics,Laptops,1642.97
+PRDT_128,ADV020,Electronics,Smartphones,655.28
+PRDT_129,ADV011,Electronics,Laptops,1887.18
+PRDT_130,ADV007,Fashion,Shoes,160.05
+PRDT_131,ADV001,Electronics,Headphones,163.64
+PRDT_132,ADV001,Electronics,Headphones,287.93
+PRDT_133,ADV020,Electronics,Smartphones,523.34
+PRDT_134,ADV013,Electronics,Laptops,1093.53
+PRDT_135,ADV009,Electronics,Headphones,185.09
+PRDT_136,ADV003,Fashion,Clothing,74.62
+PRDT_137,ADV007,Fashion,Clothing,110.22
+PRDT_138,ADV006,Sports,Sportswear,94.29
+PRDT_139,ADV008,Fashion,Shoes,230.06
+PRDT_140,ADV009,Electronics,Laptops,2011.11
+PRDT_141,ADV005,Electronics,Laptops,2127.86
+PRDT_142,ADV001,Electronics,Laptops,1962.84
+PRDT_143,ADV019,Sports,Sportswear,108.54
+PRDT_144,ADV010,Beauty,Makeup,22.81
+PRDT_145,ADV012,Electronics,Laptops,1240.47
+PRDT_146,ADV015,Sports,Fitness Equipment,254.53
+PRDT_147,ADV009,Electronics,Smartphones,307.76
+PRDT_148,ADV020,Electronics,Laptops,1509.58
+PRDT_149,ADV017,Sports,Running Shoes,115.45
+PRDT_150,ADV017,Sports,Sportswear,124.27
+PRDT_151,ADV020,Electronics,Laptops,2453.59
+PRDT_152,ADV012,Electronics,Smartphones,922.81
+PRDT_153,ADV007,Fashion,Clothing,90.83
+PRDT_154,ADV002,Sports,Sportswear,25.64
+PRDT_155,ADV003,Fashion,Shoes,279.65
+PRDT_156,ADV017,Sports,Sportswear,139.49
+PRDT_157,ADV005,Electronics,Smartphones,528.89
+PRDT_158,ADV017,Sports,Running Shoes,154.31
+PRDT_159,ADV017,Sports,Sportswear,29.81
+PRDT_160,ADV017,Sports,Sportswear,41.61
+PRDT_161,ADV002,Sports,Fitness Equipment,131.9
+PRDT_162,ADV002,Sports,Sportswear,58.28
+PRDT_163,ADV005,Electronics,Laptops,2491.25
+PRDT_164,ADV001,Electronics,Headphones,284.83
+PRDT_165,ADV001,Electronics,Headphones,166.0
+PRDT_166,ADV019,Sports,Running Shoes,160.57
+PRDT_167,ADV002,Sports,Running Shoes,187.29
+PRDT_168,ADV012,Electronics,Laptops,2413.28
+PRDT_169,ADV006,Sports,Sportswear,27.52
+PRDT_170,ADV004,Electronics,Headphones,169.92
+PRDT_171,ADV011,Electronics,Smartphones,338.78
+PRDT_172,ADV017,Sports,Fitness Equipment,187.76
+PRDT_173,ADV006,Sports,Fitness Equipment,109.75
+PRDT_174,ADV005,Electronics,Laptops,1758.38
+PRDT_175,ADV020,Electronics,Headphones,167.54
+PRDT_176,ADV002,Sports,Sportswear,49.82
+PRDT_177,ADV006,Sports,Sportswear,54.57
+PRDT_178,ADV011,Electronics,Smartphones,668.45
+PRDT_179,ADV016,Fashion,Accessories,55.69
+PRDT_180,ADV016,Fashion,Clothing,121.51
+PRDT_181,ADV001,Electronics,Laptops,467.86
+PRDT_182,ADV009,Electronics,Laptops,987.5
+PRDT_183,ADV006,Sports,Sportswear,73.46
+PRDT_184,ADV016,Fashion,Accessories,122.54
+PRDT_185,ADV003,Fashion,Shoes,103.16
+PRDT_186,ADV020,Electronics,Headphones,70.61
+PRDT_187,ADV004,Electronics,Smartphones,299.06
+PRDT_188,ADV019,Sports,Running Shoes,191.08
+PRDT_189,ADV003,Fashion,Shoes,142.49
+PRDT_190,ADV019,Sports,Fitness Equipment,303.15
+PRDT_191,ADV020,Electronics,Laptops,2330.27
+PRDT_192,ADV007,Fashion,Clothing,34.45
+PRDT_193,ADV020,Electronics,Headphones,353.13
+PRDT_194,ADV009,Electronics,Headphones,229.6
+PRDT_195,ADV001,Electronics,Smartphones,414.28
+PRDT_196,ADV008,Fashion,Shoes,141.04
+PRDT_197,ADV007,Fashion,Clothing,197.74
+PRDT_198,ADV018,Sports,Fitness Equipment,255.77
+PRDT_199,ADV008,Fashion,Shoes,296.03
+PRDT_200,ADV001,Electronics,Smartphones,689.76
