@@ -34,14 +34,15 @@ Total amount spent on campaign = number of clicks * bid amount
 
 CREATE VIEW campaign_spend AS
 SELECT
-ae.campaign_id,
+	ae.campaign_id,
+	ae.advertiser_id,
 	COUNT(*) AS impressions,
 	SUM(ae.clicked) AS clicks,
 	ROUND(SUM(ae.clicked * c.bid), 2) AS ad_spend
 FROM ad_events as ae
 JOIN campaigns as c
 	ON ae.campaign_id = c.campaign_id
-GROUP BY ae.campaign_id
+GROUP BY ae.campaign_id, ae.advertiser_id
 ORDER BY ad_spend DESC
 
 
