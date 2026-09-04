@@ -15,9 +15,9 @@ ORDER BY position;
 
 -- 2. Campaign performance: return information from campaign_roas view
 
-SELECT * FROM campaign_roas;
+SELECT * FROM campaign_performance;
 
 
--- 3. Advertiser performance: data from advertiser_analysis view
+-- 3. Advertiser performance: data from advertiser_performance view
 
-SELECT * FROM advertiser_analysis;
+SELECT * FROM advertiser_performance;

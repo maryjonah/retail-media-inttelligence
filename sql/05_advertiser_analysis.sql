@@ -1,4 +1,4 @@
--- Advertiser analysis
+-- Advertiser performance
 
 
 -- 1. Campaign performance for advertisers from highest to least earning roas, their industry/ total campaigns
@@ -16,7 +16,7 @@ LEFT JOIN campaign_revenue as cr
 	ON cs.campaign_id = cr.campaign_id;
 
 
-CREATE VIEW advertiser_analysis AS
+CREATE VIEW advertiser_performance AS
 SELECT
 	a.advertiser_id,
 	a.advertiser_name,
@@ -32,14 +32,14 @@ JOIN advertisers as a
 GROUP BY a.advertiser_id, a.advertiser_name, a.industry
 ORDER BY roas DESC;
 
-SELECT * FROM advertiser_analysis;
+SELECT * FROM advertiser_performance;
 
 
 -- 2. Average ROAS for all advertisers
 
 SELECT
     ROUND(AVG(roas), 2) AS avg_advertiser_roas
-FROM advertiser_analysis;
+FROM advertiser_performance;
 
 
 -- 3. Average amount spent by advertiser on ad
@@ -47,5 +47,3 @@ FROM advertiser_analysis;
 SELECT 
 	ROUND(AVG(total_ad_spend), 2) AS avg_ad_spend
 FROM advertiser_analysis;
-
-

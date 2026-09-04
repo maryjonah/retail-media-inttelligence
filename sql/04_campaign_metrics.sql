@@ -47,7 +47,8 @@ ORDER BY ad_spend DESC
 
 
 -- 4. Revenue on Ad Spend (roas): For each campaign and amount spent on ads, how much revenue was returned?
-CREATE VIEW campaign_roas AS 
+
+CREATE VIEW campaign_performance AS 
 SELECT
 	cs.campaign_id,
 	cs.advertiser_id,
@@ -66,4 +67,4 @@ LEFT JOIN campaign_revenue as cr
 ORDER BY roas DESC;
 
 
-SELECT * FROM campaign_roas;
+SELECT * FROM campaign_performance;
