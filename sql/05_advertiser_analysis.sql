@@ -46,4 +46,4 @@ FROM advertiser_performance;
 
 SELECT 
 	ROUND(AVG(total_ad_spend), 2) AS avg_ad_spend
-FROM advertiser_analysis;
+FROM advertiser_performance;
