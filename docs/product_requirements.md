@@ -17,6 +17,5 @@ How can MarMart improve advertiser ROAS (Return on Ad Spend) while maintaining r
 
 - Retail Media Product Manager
 - Advertisers 
-- Engineering Team
 - Sales Team
 
