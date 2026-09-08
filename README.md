@@ -1,3 +1,12 @@
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Business Problem and Questions](#business-problem-and-questions)
+- [Stakeholders](#stakeholders)
+- [Key Metrics](#key-metrics)
+- [Key Findings and Recommendations](#key-findings-and-recommendations)
+- [Interactive Dashboard](#interactive-dashboard)
+
+
 # Retail Media Performance & Optimization
 
 An end-to-end retail media analytics project exploring how sponsored search placement, advertiser spend, and campaign performance influence customer engagement and Return on Ad Spend(ROAS).
@@ -5,7 +14,7 @@ An end-to-end retail media analytics project exploring how sponsored search plac
 ## Project Overview
 MarMart is a fictional ecommerce retailer that allows brands to advertise products within its search results. Advertisers pay MarMart when shoppers click sponsored products. MarMart wants to grow advertising revenue while ensuring advertisers receive good returns and shoppers continue receiving relevant search results.
 
-## Business Problem & Questions
+## Business Problem and Questions
 Retail media platforms need to balance advertiser performance with customer engagement. Higher sponsored placement may improve visiblity, but stronger enagagement does not always translate into better returns. Some questions the project explored includes:
 
 1. Does higher sponsored-search placement improve Clich-through Rate(CTR)?
@@ -28,7 +37,7 @@ Retail media platforms need to balance advertiser performance with customer enga
 | ROAS                | Measures revenue generated per dollar spent                                                                |   
 | Sponsored Position  | Indicates where an ad appeared in search: _1 for highest position and 10 for lowest position on a web page |
 
-## Key Findings & Recommendations
+## Key Findings and Recommendations
 
 ### Campaigns
 #### 1. Strong click-through rate (CTR) does not guarantee strong returns
